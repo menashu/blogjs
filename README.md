@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+##Basic info page with the help of next.js and deployed on AWS Amplify##
