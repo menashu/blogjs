@@ -7,6 +7,3 @@
    - Configure your github account in the app settings option and then select the repo in which you have your code.
    - Following through the options and customizations you will land up on the final deploy your apllication page in which there will be shown the status of your deployment.
 
-![Screenshots/Untasditled.png]
-
-
