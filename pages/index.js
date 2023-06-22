@@ -11,7 +11,7 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-          Welcome to my portfolio<a href="https://www.linkedin.com/in/ashutoshmaherwal/">LinkedIn</a>
+          Welcome to my portfolio  <a href="https://www.linkedin.com/in/ashutoshmaherwal/">LinkedIn</a>
         </h1>
 
         <p className={styles.description}>
