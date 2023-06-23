@@ -11,4 +11,6 @@ https://main.d3knbisv7zy75x.amplifyapp.com/
 This is the link to my app deployed using AWS Amplify
 
 
+
+
 ***I tried automating amplify app build entirely but for some reasons amplify was not fetching my framework on it's own so I'm submitting what fits right now to submit my assignment on time, I've attached screenshots for the same aswell. Thanks!***
