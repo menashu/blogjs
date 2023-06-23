@@ -5,5 +5,5 @@
 2. CD to the cloned direcotry run.
    - Terraform plan and Terraform apply this will create a application on AWS amplify by the name of blognextjs.
    - Configure your github account in the app settings option and then select the repo in which you have your code.
-   - Following through the options and customizations you will land up on the final deploy your apllication page in which there will be shown the status of your deployment.
+   - Following through the options and customizations you will land up on the final deploy your apllication page in which there will be shown the status of your deployment and your app will be deployed.
 
